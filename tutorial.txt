@@ -8,4 +8,7 @@ commit
 pull request
 branch
 
+learn git
+and git features
+
 thank you
