@@ -8,6 +8,13 @@ commit
 pull request
 branch
 
+learn git
+and git features
+
 thank you
 
+done my changes
+
+
 final copy 
+
