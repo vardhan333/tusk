@@ -5,4 +5,5 @@ This Git Tutorial
 push
 merge
 commit
-pull
+pull request
+branch
